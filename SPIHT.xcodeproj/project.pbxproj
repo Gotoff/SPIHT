@@ -28,6 +28,7 @@
 		97097D3D191F8A840079A555 /* SPIHT */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = SPIHT; sourceTree = BUILT_PRODUCTS_DIR; };
 		97097D40191F8A840079A555 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
 		97097D42191F8A840079A555 /* SPIHT.1 */ = {isa = PBXFileReference; lastKnownFileType = text.man; path = SPIHT.1; sourceTree = "<group>"; };
+		97097D49191F8AA70079A555 /* Header.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Header.h; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,6 +63,7 @@
 			children = (
 				97097D40191F8A840079A555 /* main.cpp */,
 				97097D42191F8A840079A555 /* SPIHT.1 */,
+				97097D49191F8AA70079A555 /* Header.h */,
 			);
 			path = SPIHT;
 			sourceTree = "<group>";
